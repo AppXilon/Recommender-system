@@ -1,0 +1,7 @@
+food_id,title,restaurant_id,price,num_orders,category,avg_rating,num_rating,tags
+1,Nasi Goreng Cina,1,30,35,Nasi Goreng,3.9,10,"veg, spicy"
+2,Nasi Goreng Cili Padi,1,25,40,Nasi Goreng,3.8,15,"veg"
+3,Mee Hailam,1,25,10,Mee,3,10,"veg, spicy"
+4,Mee Tomyum,1,30,25,Mee,2.5,5,"veg, healthy"
+5,Ayam Goreng,1,60,50,Side Dish,4.6,30,"nonveg, healthy"
+6,Telur Goreng,1,80,40,Side Dish,4.2,28,"nonveg, healthy, spicy"
